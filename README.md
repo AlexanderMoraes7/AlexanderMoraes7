@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Brazilian, I'm learning C# and here I'm going to put some codes that I'm learning
 
 <!--
 **AlexanderMoraes7/AlexanderMoraes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
