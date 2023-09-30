@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Brazilian, I'm learning C# and here I'm going to put some codes that I'm learning
+I'm Brazilian and I'm going to share a little of my knowledge about Python, Django and CRUD
 
 <!--
 **AlexanderMoraes7/AlexanderMoraes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
