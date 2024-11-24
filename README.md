@@ -4,12 +4,18 @@
 
 ### Here you will find college project, and projects that reflect my experience and learning
 
+### Daily I work majority with Delphi 7 and PostgreSQL and sometimes python, but my focus is improve my skills in python
+
 - 📫 You can find me on:
 
     [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/alexandermoraes7/)
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander97643@gmail.com)
 
+<br/>
+
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderMoraes7&show_icons=true&theme=dracula)
+
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMoraes7&theme=tokyonight&langs_count=6)
 
