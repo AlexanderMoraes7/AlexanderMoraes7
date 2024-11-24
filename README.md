@@ -17,10 +17,12 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMoraes7&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMoraes7&theme=tokyonight&langs_count=6&hide=rank)
 
 <!--
-**AlexanderMoraes7/AlexanderMoraes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositório do Github Stats: https://github.com/anuraghazra/github-readme-stats
+Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk
+Emojis: https://emojipedia.org/
 
 Here are some ideas to get you started:
 
