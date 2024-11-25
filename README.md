@@ -2,7 +2,7 @@
 
 ## I am Alex, a developer in love for technology and learnings. I like to create solutions, explore news technology and face challenges
 
-### Here you will find college project, and projects that reflect my experience and learning
+### Here you will find my college projects, and projects that reflect my experience and learning
 
 ### Daily I work majority with Delphi 7 and PostgreSQL and sometimes python, but my focus is improve my skills in python
 
