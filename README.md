@@ -4,7 +4,7 @@
 
 ### Here you will find my college projects, and projects that reflect my experience and learning
 
-### Daily I work majority with Delphi 7 and PostgreSQL and sometimes python, but my focus is improve my skills in python and Machine Learning
+### Daily I work majority with Delphi 7 and PostgreSQL and sometimes Python, but my focus is improve my skills in Python and Machine Learning
 
 - 📫 You can find me on:
 
