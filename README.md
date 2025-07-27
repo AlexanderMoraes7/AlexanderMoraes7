@@ -4,7 +4,7 @@
 
 ### Here you will find my college projects, and projects that reflect my experience and learning
 
-### Daily I work majority with Delphi 7 and PostgreSQL and Python in a particular framework of the company where I work.
+### Daily I work majority with Delphi 7 and PostgreSQL, about Python I use a particular framework of the company where I work.
 
 - 📫 You can find me on:
 
