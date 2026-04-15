@@ -1,4 +1,4 @@
-# Hello Guys! Welcome to my GitHub! 👋
+# Hello Folks! Welcome to my GitHub! 👋
 
 ## I am Alex, a developer in love for technology and learnings. I like to create solutions, explore news technology and face challenges
 
