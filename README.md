@@ -1,15 +1,42 @@
-# Hello Folks! Welcome to my GitHub! 👋
+# Hi, I'm Alexander Moraes 👋
 
-## I am Alex, a developer in love for technology and learnings. I like to create solutions, explore news technology and face challenges
+**Software Developer** based in Blumenau, Brazil · 🌍 **Open to relocation (EU)**
 
-### Here you will find my college projects, and projects that reflect my experience and learning
+I've been building software professionally since 2022, mostly on large ERP systems:
+backend business logic, databases and data migration. Before tech, I spent years in
+stock management and sales, which gave me a practical view of the business problems
+software has to solve.
 
-### Daily I work majority with Delphi Tokyo and PL/SQL.
+### 💼 Experience
+- **Software Developer II @ Senior Sistemas** (Nov 2025 – present)
+  Delphi and PL/SQL (Oracle) development on ERP modules, plus automated tests in Java for new features.
+- **Software Developer @ IPM Sistemas** (Nov 2022 – Nov 2025)
+  Data migration and data manipulation with Delphi and Python.
 
-- 📫 You can find me on:
+### 🛠️ Tech stack
+**Languages:** Delphi · Python · Java · PL/SQL · SQL · Dart
+**Databases:** Oracle · PostgreSQL · MySQL · Redis
+**Frameworks:** Django · Flutter
+**Tools:** Git · Bitbucket · Jira
 
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandermoraes7/)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander97643@gmail.com)
+### 🎓 Education & certifications
+- B.Tech in Systems Analysis and Development, Senac Santa Catarina (2024)
+- Python Essentials 1, Cisco (2024)
+- Dart Programming Language, DIO (2026)
+
+### 📌 Featured projects
+- **[Todo_list_flutter](https://github.com/AlexanderMoraes7/Todo_list_flutter)**: Flutter task manager with layered architecture (Provider, repository, service) and unit, widget and property-based tests.
+- **[amamentacao_django](https://github.com/AlexanderMoraes7/amamentacao_django)**: Django web app connecting breast milk donors with human milk banks.
+- **[bmi_calculator](https://github.com/AlexanderMoraes7/bmi_calculator)**: Dart CLI app with input validation and tests.
+
+### 🗣️ Languages
+Portuguese (native) · English (upper-intermediate, B2)
+
+### 📫 Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandermoraes7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexander97643@gmail.com)
+
+
 <!--
 <br/>
 
