@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Moraes 👋
 
-**Software Developer** based in Blumenau, Brazil · 🌍 **Open to relocation (EU)**
+**Software Developer** based in Blumenau, Brazil · 🌍 **Open to relocation (Luxembourg)**
 
 I've been building software professionally since 2022, mostly on large ERP systems:
 backend business logic, databases and data migration. Before tech, I spent years in
